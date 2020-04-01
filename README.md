@@ -1,5 +1,5 @@
 # Random-Word-Cipher
 
 Cipher Random Words Using:
-> string
-> randomWords 
+1 string
+2 randomWords 
