@@ -2,4 +2,4 @@
 
 Cipher Random Words Using:
 1) string
-2) randomWords 
+2) RandomWords 
